@@ -1,0 +1,3 @@
+Foundation of Deutsche Bank type is NATIONAL, was created '10.10.1965'}
+Foundation of DZ Bank Group type is NATIONAL, was created '9.3.1974'}
+Foundation of Commerzbank type is NATIONAL, was created '18.4.2011'}
